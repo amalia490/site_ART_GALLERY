@@ -1,9 +1,10 @@
-[{
+[
+    {
     "email" : "riclea.amalia@gmail.com",
     "password" : "123456"
-},
-{
+    },
+    {
     "email" : "r.a@gmail.com",
     "password" : "000"
-}
+    }
 ]
